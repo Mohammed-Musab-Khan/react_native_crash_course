@@ -1,0 +1,12 @@
+# Create a new Project in the cuurent directory
+    npx create-expo-app@latest ./ --template blank
+# Install Dependencies
+    npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar
+# For Web
+    npx expo install react-native-web react-dom
+# run
+    npx expo start -c
+
+# Install native wind for css
+    npm install nativewind
+    
